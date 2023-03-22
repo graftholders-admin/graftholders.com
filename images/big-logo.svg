@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="219.84885mm"
+   height="209.09506mm"
+   viewBox="0 0 219.84885 209.09506"
+   version="1.1"
+   id="svg5960"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="big-logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview5962"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.64052329"
+     inkscape:cx="590.92309"
+     inkscape:cy="471.48949"
+     inkscape:window-width="1920"
+     inkscape:window-height="1023"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-nodes="false"
+     inkscape:snap-others="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:snap-text-baseline="true"
+     inkscape:snap-page="true" />
+  <defs
+     id="defs5957">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath57-1">
+      <path
+         d="M 0,0 H 1980 V 3963.38 H 0 Z"
+         id="path55-2" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(194.19142,55.391711)">
+    <path
+       d="M -194.19142,153.70335 H 25.657428 V -55.391711 H -194.19142 Z"
+       style="fill:#f4f3e8;fill-opacity:1"
+       id="cornice"
+       inkscape:label="cornice"
+       inkscape:export-filename="/home/hawk/stanzino/graftholders/nextjs/nextjs-blog/public/images/big-logo.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       d="m -58.13173,56.23703 c 0,-14.434431 -11.70111,-26.135858 -26.135118,-26.135858 -14.434008,0 -26.135122,11.701427 -26.135122,26.135858 0,14.434432 11.701114,26.135859 26.135122,26.135859 14.434008,0 26.135118,-11.701427 26.135118,-26.135859 z"
+       style="mix-blend-mode:normal;fill:none;stroke:#000000;stroke-width:1.843;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="path9222-9"
+       inkscape:label="cerchio" />
+    <path
+       d="m -151.31572,34.450957 c 0,0 12.10888,28.744333 15.30995,38.597557 3.20139,9.852871 10.30059,40.225306 10.30059,40.225306 0,0 31.078519,-2.63387 41.438367,-2.63387 10.359496,0 41.438371,2.63387 41.438371,2.63387 0,0 7.098806,-30.372435 10.300229,-40.225306 3.201387,-9.853224 15.309955,-38.597557 15.309955,-38.597557 0,0 -26.691448,-16.137325 -35.072249,-22.226693 -8.381153,-6.0897204 -31.976306,-26.488672 -31.976306,-26.488672 0,0 -23.595157,20.3989516 -31.976307,26.488672 -8.38115,6.089368 -35.0726,22.226693 -35.0726,22.226693 z"
+       style="mix-blend-mode:normal;fill:none;fill-opacity:0.00195247;stroke:#000000;stroke-width:5.52767;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       id="path9226-2"
+       inkscape:label="pentagono" />
+  </g>
+</svg>
